@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-omkar",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a0d0fe65-dfdd-4383-a280-6f12eb34a61b",
+		"tenantId": "8cc58121-974d-4ec1-a5a2-fda34f7b73ee"
+	}
+}
